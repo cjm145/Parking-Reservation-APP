@@ -1,1 +1,3 @@
 *.php linguist-detectable=true
+*.CSS linguist-detectable=false
+*.html linguist-detectable=false
